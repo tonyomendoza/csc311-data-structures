@@ -1,0 +1,19 @@
+tmendoza8:: password:: Tony:: Mendoza:: 0
+aStrange6:: password:: Arwen:: Strange:: 1
+tmendoza8:: hot wings:: 30:: 12:: Lunner:: 0
+aStrange6:: taco:: 50:: 2:: Dessert:: 1
+aStrange6:: taco:: 50:: 5:: Supper:: 1
+aStrange6:: taco:: 50:: 4:: Brunch:: 1
+aStrange6:: taco:: 50:: 6:: Breakfast:: 1
+aStrange6:: taco:: 50:: 7:: Lunch:: 1
+aStrange6:: taco:: 50:: 10:: Dinner:: 1
+aStrange6:: taco:: 50:: 3:: SecondBreakfast:: 1
+aStrange6:: taco:: 50:: 10:: Lunner:: 1
+aStrange6:: icecream:: 120:: 1:: Breakfast:: 1aStrange6:: pizza:: 200:: 1:: Dinner:: 1
+Lovel257:: password:: Demi:: Lovelace:: 2
+Lovel257:: taco:: 100:: 5:: Dinner:: 2
+Lovel257:: pizza:: 1:: 1:: Lunch:: 2
+Lovel257:: taco:: 100:: 7:: Breakfast:: 2
+Lovel257:: icecream:: 1:: 1:: Lunch:: 2
+Lovel257:: burger:: 200:: 1:: Lunner:: 2
+Lovel257:: taco:: 100:: 1:: Brunch:: 2
